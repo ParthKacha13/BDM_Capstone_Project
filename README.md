@@ -1,6 +1,6 @@
 # 📊 Optimizing Sales and Profitability for a Multi-Category Retail Superstore
 
-🎓 **BDM Capstone Project
+🎓 **BDM Capstone Project**  
 👤 Author: Parth Kacha  
 
 ---
